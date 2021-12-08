@@ -33,13 +33,8 @@
                     "class":"DepictionSeparatorView"
                 },
                 {
-                    "title":"安装 tvos14 描述文件",
-                    "action":"https://invalidunit.github.io/other/tvos14.mobileconfig",
-                    "class":"DepictionTableButtonView"
-                },
-                {
-                    "title":"安装 tvos15 描述文件",
-                    "action":"https://invalidunit.github.io/other/tvos15.mobileconfig",
+                    "title":"安装 tvos 描述文件",
+                    "action":"https://invalidunit.github.io/other/tvos.mobileconfig",
                     "class":"DepictionTableButtonView"
                 },
                 {
