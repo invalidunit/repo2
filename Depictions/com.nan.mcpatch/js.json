@@ -34,7 +34,7 @@
                 },
                 {
                     "title":"安装 tvos 描述文件",
-                    "action":"https://invalidunit.github.io/other/tvos.mobileconfig",
+                    "action":"https://invalidunit.github.io/tvos/tvos.mobileconfig",
                     "class":"DepictionTableButtonView"
                 },
                 {
