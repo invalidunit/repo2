@@ -240,16 +240,16 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
-Size: 274716
-MD5sum: edacb7ddf391da7e1d055668a831ebd5
-SHA1: 0c8d2e0546b6ed0640240f6d81d203c3d69e1046
-SHA256: e500581cdc74bebf79cb672d87e782a34646178e175c5c68d55dc12545812f47
+Size: 274700
+MD5sum: 377a102f1acd9f4d3cee7ba3854d86ee
+SHA1: 9b528bedfb7008b1311e8737bd6bd5d8f7c77309
+SHA256: f5ba4288c8c0a35f044cb82c507257f2fbb7302f55a11c09acca1a24b659e5bd
 Section: Themes (Bootlogos)
 Description: 将启动 Logo 替换为 checkra1n 微标。
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/image.png
+Icon: https://invalidunit.github.io/repo2/Depictions/com.nan.bootlogo.checkra1n/image.png
 Name: checkra1n-Bootlogo
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bootlogo.checkra1n/js.json
+Sileodepiction: https://invalidunit.github.io/repo2/Depictions/com.nan.bootlogo.checkra1n/js.json
 
 Package: com.nan.bounceit
 Version: 1.0.4
@@ -872,16 +872,16 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
-Size: 503596
-MD5sum: 77b9d1c2fc10453bf71401a9a693a58a
-SHA1: 04295701bc97d89d31f68b93a20686e961631107
-SHA256: 434d34d723805f219c43ef12fcc68493606358a86d766c925c291696631cfb35
+Size: 503600
+MD5sum: a5e7158fe1eb5283b72ef939a3feec11
+SHA1: c034c0cd217a5d96f6cc38fcc7f612ab8ffe3377
+SHA256: 9cbb98eafd3f781e0067491c80f8efcc8587a73e6669effc605633ffe098ac47
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: zhaonan
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/image.png
+Icon: https://invalidunit.github.io/repo2/Depictions/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/js.json
+Sileodepiction: https://invalidunit.github.io/repo2/Depictions/com.nan.respring.xr/js.json
 
 Package: com.nan.setwallpaper
 Version: 0.1.3
