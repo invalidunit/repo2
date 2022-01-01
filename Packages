@@ -92,25 +92,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/ima
 Name: AppStore++
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.appstoreplusplus/js.json
 
-Package: com.nan.awemepurification
-Version: 1.8-1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Conflicts: netskao.awemehack, netskao.awemepurification
-Provides: netskao.awemepurification (=1.8-1)
-Filename: debs/com.nan.awemepurification_1.8-1_iphoneos-arm.deb
-Size: 228860
-MD5sum: 8d3c21ee71e5eac91407b5b36ba33366
-SHA1: 7c846e4a9bc89cdd7c22957289f13c77df227105
-SHA256: c573a12a1f9bd41549e457e855e379f1fb927fdcbc9b90be2c78d6506c1cec4e
-Section: Tweaks
-Description: 抖音净化！
-Author: Netskao <netskao@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/image.png
-Name: Aweme Purification
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.awemepurification/js.json
-
 Package: com.nan.backgrounderaction12
 Version: 0.1.0
 Architecture: iphoneos-arm
@@ -182,23 +163,6 @@ Author: ATWiiks
 Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/image.png
 Name: BetterCCXI (1.5.0)
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.betterccxi/js_150.json
-
-Package: com.nan.bfdecrypt
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Depends: firmware(>=11.0), preferenceloader, applist
-Filename: debs/com.nan.bfdecrypt_1.3.1_iphoneos-arm.deb
-Size: 83420
-MD5sum: 858715ee5f1106ea854a71e39b1ba04d
-SHA1: 24ea39c6ffe21ad3bab6e656838c10e23440dfee
-SHA256: 5995e8f52f9f4e6f1cf3f78dbc87828814de10988089306300620682562fd811
-Section: System
-Description: bfdecrypt 在 iOS 11 到 12.4
-Author: level3tjg <tjaygrantham@gmail.com>
-Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.bfdecrypt/image.png
-Name: bfdecrypt
-Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bfdecrypt/js.json
 
 Package: com.nan.bfdecrypt
 Version: 1.3.2
