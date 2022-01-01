@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "漂亮的 XR 注销动画",
+                    "title": "启用监督模式",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -21,24 +21,43 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/Screenshot_01.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/Default/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://Invalidunit.github.io/repo/Depictions/com.nan.respring.xr/Screenshot_02.png"
+                            "url": "https://Invalidunit.github.io/repo/Depictions/Default/Screenshot_02.png"
                         }
                     ]
                 },
                 {
+                    "class":"DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "安装后，可在以下网站安装描述文件",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "title": "Supervised",
+                    "action":"https://supervised.me/",
+                    "class":"DepictionTableButtonView"
+                },
+                {
+                    "title": "Delayed OTAS",
+                    "action":"https://dhinakg.github.io/delayed-otas.html",
+                    "class":"DepictionTableButtonView"
+                },
+                {
                     "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "spacing": 1
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSpacerView",
-                    "spacing": 16
+                    "spacing": 1
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -52,22 +71,22 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "zhaonan",
+                    "text": "ichitaso",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.1",
+                    "text": "1.0.1",
                     "title": "最新版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "11.0 - 13.5",
+                    "text": "11.0 - 14.8",
                     "title": "支持系统范围"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2020 年 01 月 22 日",
+                    "text": "2021 年 12 月 31 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -79,6 +98,6 @@
                     "spacing": 16
                 }
             ]
-        }
+        },
     ],
 }

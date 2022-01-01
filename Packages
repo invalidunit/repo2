@@ -685,15 +685,16 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.mcpatch
+Provides: kr.xsf1re.mcpatch
 Filename: debs/com.nan.mcpatch_0.0.1-2_iphoneos-arm.deb
-Size: 3600
-MD5sum: df19b6ca394ce3a35b86aae004fb5553
-SHA1: 60263729bb7982377283e474859c7c0ed6f83b48
-SHA256: af956198f0918a8b991600f650c477bc9ab3efc8401f418d2fe142a95b0d6b00
+Size: 3608
+MD5sum: b6e17211069ac3a46aa2273d64130b12
+SHA1: 9dee44689fc8ce6a5a69b29e3fd47504974767d6
+SHA256: 73ea2378b9156c214673e0423b27aa73823ef97f0650d176b0d63e7dd6935e06
 Section: Developer
-Description: 允许iOS设备安装不可安装的描述文件
+Description: 解除 iOS 设备拒绝安装某些描述文件的限制
 Author: XsF1re
-Icon: https://Invalidunit.github.io/repo2/Depictions/Default/image_tweaks.png
+Icon: https://Invalidunit.github.io/repo2/Depictions/Default/image_fix.png
 Name: MCPatch
 Sileodepiction: https://Invalidunit.github.io/repo2/Depictions/com.nan.mcpatch/js.json
 
@@ -1004,6 +1005,26 @@ Tag: role::hacker
 Author: Adam Leventhal
 Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_terminal.png
 Name: snaputil
+
+Package: com.nan.spenabler
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Depends: firmware (>= 11.0)
+Conflicts: com.ichitaso.spenabler
+Provides: com.ichitaso.spenabler
+Filename: debs/com.nan.spenabler_1.0.1_iphoneos-arm.deb
+Size: 3836
+MD5sum: 168e073707bbc03d31e5a0dd262b53d6
+SHA1: b14f0301e0fbfcaee0e9eb6232c6cf7601989d3d
+SHA256: 0deaaa913796e4077215e2016877705ca8f652d430f7a067baae5154eceb1f79
+Section: System
+Description: 启用监督模式，主要用于配合描述文件，升级到部分无法通过 iTunes 升级的系统
+Author: ichitaso
+Dev: ichitaso
+Icon: https://Invalidunit.github.io/repo2/Depictions/Default/image_fix.png
+Name: SupervisedEnabler
+Sileodepiction: https://Invalidunit.github.io/repo2/Depictions/com.nan.spenabler/js.json
 
 Package: com.nan.tetherme8
 Version: 1.2.3~arm64e-1

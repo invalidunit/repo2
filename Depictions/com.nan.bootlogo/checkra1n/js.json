@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo/Depictions/Default/top.png",
+    "headerImage": "https://invalidunit.github.io/repo/Depictions/Default/top.png",
     "tintColor": "#254F76",
     "minVersion": "0.3",
     "tabs": [
@@ -75,46 +75,10 @@
                     "spacing": 40
                 },
                 {
-                    "URL": "https://Invalidunit.github.io/repo/CydiaIcon.png",
-                    "alignment": 1,
-                    "class": "DepictionImageView",
-                    "cornerRadius": 0,
-                    "height": 45,
-                    "width": 45
-                },
-                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
             ]
         },
-        {
-            "class": "DepictionStackView",
-            "tabname": "更新日志",
-            "views": [
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.1",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "添加更多图标",
-                    "useRawFormat": true
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "title": "1.0",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "初始版本",
-                    "useRawFormat": true
-                }
-            ]
-        }
     ],
 }

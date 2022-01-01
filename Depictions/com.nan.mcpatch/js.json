@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://Invalidunit.github.io/repo2/Depictions/Default/top.png",
+    "headerImage": "https://invalidunit.github.io/repo2/Depictions/Default/top.png",
     "tintColor": "#FF4500",
     "minVersion": "0.3",
     "tabs": [
@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "允许 iOS 设备安装不可安装的描述文件",
+                    "title": "解除 iOS 设备拒绝安装某些描述文件的限制",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -34,7 +34,7 @@
                 },
                 {
                     "title":"安装 tvos 描述文件",
-                    "action":"https://invalidunit.github.io/tvos/tvos.mobileconfig",
+                    "action":"https://invalidunit.github.io/mobileconfig/tvos15_mcpatch.mobileconfig",
                     "class":"DepictionTableButtonView"
                 },
                 {
@@ -81,14 +81,6 @@
                 {
                     "class": "DepictionSpacerView",
                     "spacing": 40
-                },
-                {
-                    "URL": "https://Invalidunit.github.io/repo/CydiaIcon.png",
-                    "alignment": 1,
-                    "class": "DepictionImageView",
-                    "cornerRadius": 0,
-                    "height": 45,
-                    "width": 45
                 },
                 {
                     "class": "DepictionSpacerView",
