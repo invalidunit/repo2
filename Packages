@@ -836,16 +836,16 @@ Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
-Size: 503600
-MD5sum: a5e7158fe1eb5283b72ef939a3feec11
-SHA1: c034c0cd217a5d96f6cc38fcc7f612ab8ffe3377
-SHA256: 9cbb98eafd3f781e0067491c80f8efcc8587a73e6669effc605633ffe098ac47
+Size: 503628
+MD5sum: 63e0868e306e0a82c9bec9f5f1476c71
+SHA1: bc49eae5607b58b84b488534b19bdd6d1cf7f68d
+SHA256: 9988b378ec71dd8f02306c79a71c0094d226a7af01d98a14874e6b088d89655f
 Section: Themes (Respring)
 Description: 漂亮的 XR 注销动画
 Author: zhaonan
 Icon: https://invalidunit.github.io/repo2/Depictions/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
-Sileodepiction: https://invalidunit.github.io/repo2/Depictions/com.nan.respring.xr/js.json
+Sileodepiction: https://invalidunit.github.io/repo2/Depictions/com.nan.respring/xr/js.json
 
 Package: com.nan.setwallpaper
 Version: 0.1.3
