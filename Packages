@@ -5,7 +5,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear
 Provides: com.isklikas.3dbadgeclear, com.twickd.john-sklikas.3dbadgeclear (=1.6.8)
-Filename: debs/com.nan.3dbadgeclear_1.6.8_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.3dbadgeclear_1.6.8_iphoneos-arm.deb
 Size: 141412
 MD5sum: 87f35c6df36961a5cac0775f58a76058
 SHA1: 135f3553d47251f5a9f550fd8d9a4dbb6c9371db
@@ -24,7 +24,7 @@ Maintainer: zhaonan
 Depends: coreutils, firmware (>= 10.3)
 Conflicts: com.michael.apfs-deletefs
 Provides: com.michael.apfs-deletefs (=0.2.1)
-Filename: debs/com.nan.apfs-deletefs_0.2.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.apfs-deletefs_0.2.1_iphoneos-arm.deb
 Size: 4532
 MD5sum: 70f67e1e8ba634c2c95e75172e37b57e
 SHA1: 676e2505964adc00939de67691557674084d7bb5
@@ -41,7 +41,7 @@ Package: com.nan.apfs-snapshot
 Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Filename: debs/com.nan.apfs-snapshot_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.apfs-snapshot_0.1.0_iphoneos-arm.deb
 Size: 4620
 MD5sum: 7675a00110a69a242b6721e48f3124c6
 SHA1: 1637101c07c35f93a6e788a40a7d88c22bf06707
@@ -59,7 +59,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Conflicts: com.tigisoftware.appdatamanager
 Provides: com.tigisoftware.appdatamanager (= 1.6.0-2)
-Filename: debs/com.nan.appdatamanager_1.6.0-2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.appdatamanager_1.6.0-2_iphoneos-arm.deb
 Size: 2462300
 MD5sum: 5ac2babf2491c53df8178fa86e72bc4c
 SHA1: fc5fb855f0e30967d825352fe4960fa06708227a
@@ -78,7 +78,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
 Provides: com.cokepokes.appstoreplusplus (=0.9.12)
-Filename: debs/com.nan.appstoreplusplus_0.9.12_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.appstoreplusplus_0.9.12_iphoneos-arm.deb
 Size: 332720
 MD5sum: 5b4276fb063ce7b4b94c383216e759e8
 SHA1: f77dfe0a25acf1627a76bd4c446571e0f43f2a82
@@ -97,7 +97,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.nan.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.backgrounderaction12_0.1.0_iphoneos-arm.deb
 Size: 13356
 MD5sum: 808f59a1caa3c54638925ae93a7a1fff
 SHA1: cb3266b840d0b7ac22c8d44174083a21354f84a4
@@ -115,7 +115,7 @@ Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, com.opa334.ccsupport
-Filename: debs/com.nan.backgrounderaction13_0.1.3_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.backgrounderaction13_0.1.3_iphoneos-arm.deb
 Size: 13696
 MD5sum: d3c1459cbd69589076bf8a08b88df91f
 SHA1: 0b1d9738b808900458470fff9d3bc272e668bb8a
@@ -134,7 +134,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
-Filename: debs/com.nan.betterccxi_1.6.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.betterccxi_1.6.0_iphoneos-arm.deb
 Size: 80704
 MD5sum: eec5103146be670769f2ec363c3636df
 SHA1: 754110b5677007b1845d17004df83bf980d920b7
@@ -152,7 +152,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(>=11.0), mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Conflicts: com.atwiiks.betterccxiweather, com.atwiiks.betterccxi
-Filename: debs/com.nan.betterccxi-150_1.5.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.betterccxi-150_1.5.0_iphoneos-arm.deb
 Size: 85912
 MD5sum: 7ebe7a6cf83f7bb58e9bcf18ce0f32a6
 SHA1: 4d21bc9ec666cb85b36e81dd7c84b6bc19744dfa
@@ -169,7 +169,7 @@ Version: 1.3.2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(>=11.0), preferenceloader, applist
-Filename: debs/com.nan.bfdecrypt_1.3.2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.bfdecrypt_1.3.2_iphoneos-arm.deb
 Size: 83584
 MD5sum: 66b8c7f1211599574ef35c46c3eab7c8
 SHA1: c3655838b17c812355b2ef4158822a61c09976d4
@@ -187,7 +187,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, com.chpwn.iconsupport, firmware (>= 9.0), firmware (<< 13.0)
-Filename: debs/com.nan.bolders_1.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.bolders_1.0.1_iphoneos-arm.deb
 Size: 13984
 MD5sum: 2bbe166264fae092c90f8cac4e1e4dc6
 SHA1: 88602981a395eaa70cb55cd72d115973bbcdad34
@@ -203,7 +203,7 @@ Package: com.nan.bootlogo.checkra1n
 Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Filename: debs/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
 Size: 274700
 MD5sum: 377a102f1acd9f4d3cee7ba3854d86ee
 SHA1: 9b528bedfb7008b1311e8737bd6bd5d8f7c77309
@@ -222,7 +222,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate, firmware(>=11.0)
 Conflicts: com.jakeashacks.bounceit
 Replaces: com.jakeashacks.bounceit
-Filename: debs/com.nan.bounceit_1.0.4_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.bounceit_1.0.4_iphoneos-arm.deb
 Size: 4828
 MD5sum: 0d3aa0c16511445dc70b7be56cc6f770
 SHA1: 6fb3161092ceb39dcb0ff30050e9dcaeb024068f
@@ -239,7 +239,7 @@ Version: 0.0.1-47+debug
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(<=12.9), mobilesubstrate
-Filename: debs/com.nan.colorizeios_0.0.1-47+debug_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.colorizeios_0.0.1-47+debug_iphoneos-arm.deb
 Size: 66276
 MD5sum: 85aba9f4c6f18544841498ad327eec14
 SHA1: 9d0a53b7eedc531251052526ddf66ee755c8cb4e
@@ -256,7 +256,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware(>=13.0), mobilesubstrate
-Filename: debs/com.nan.colorsios_1.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.colorsios_1.0.1_iphoneos-arm.deb
 Size: 100464
 MD5sum: bd66b953291f929cb5f32d8f2bb62f70
 SHA1: 44b2d95e59e013a39c1486302579f8485e57feea
@@ -273,7 +273,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.conditionalwifi4_1.0.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.conditionalwifi4_1.0.0_iphoneos-arm.deb
 Size: 11716
 MD5sum: 09a3eb8347d9478657175c244a48fef3
 SHA1: 17a3d4230f399ae71e7bd722e8635570035a71a4
@@ -290,7 +290,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate,preferenceloader,com.creaturesurvive.libcscolorpicker
 Conflicts: com.4nni3.coolcc
 Provides: com.4nni3.coolcc
-Filename: debs/com.nan.coolcc_1:3.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.coolcc_1:3.0_iphoneos-arm.deb
 Size: 41356
 MD5sum: a9cc3fe365b5d8d7f75cb0b1f85beb61
 SHA1: 4553a9e9ac301051ebc5fa999d32881fe2775651
@@ -309,7 +309,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate,com.creaturesurvive.libcscolorpicker
 Conflicts: com.4nni3.coolfolder
 Provides: com.4nni3.coolfolder
-Filename: debs/com.nan.coolfolder_2.7-2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.coolfolder_2.7-2_iphoneos-arm.deb
 Size: 45448
 MD5sum: e69b426471a17a66d842ffc2c39b9f23
 SHA1: 4d3dfd56b37e5312f227502c06ed1520b6f283b2
@@ -328,7 +328,7 @@ Maintainer: zhaonan
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Conflicts: com.julioverne.cracktool3
 Provides: com.julioverne.cracktool3
-Filename: debs/com.nan.cracktool3_3.0~beta11_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.cracktool3_3.0~beta11_iphoneos-arm.deb
 Size: 143032
 MD5sum: f15286ae2b1f40defb77d60dba3bef8f
 SHA1: 2ea5fd81cac5643615a5318f45f6cba8d9181ec2
@@ -349,7 +349,7 @@ Maintainer: zhaonan
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Conflicts: com.julioverne.cracktool4
 Provides: com.julioverne.cracktool4 (=4.0~beta9e)
-Filename: debs/com.nan.cracktool4_4.0~beta9e_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.cracktool4_4.0~beta9e_iphoneos-arm.deb
 Size: 485064
 MD5sum: aaebb5953c56b9de9f48d492b66ad803
 SHA1: 98f7979866f27641b079692dd51b630b5c6f0d1b
@@ -368,7 +368,7 @@ Maintainer: zhaonan
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Conflicts: com.julioverne.cydown
 Provides: com.julioverne.cydown (= 7.1.1)
-Filename: debs/com.nan.cydown_7.1.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.cydown_7.1.1_iphoneos-arm.deb
 Size: 2601528
 MD5sum: 0b6a0827e4618204c4b5b48e6052df1f
 SHA1: d0dadb4a6ba02d79a33d28a50eca7860c56b44cf
@@ -385,7 +385,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.dark-keyboard_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.dark-keyboard_0.1.0_iphoneos-arm.deb
 Size: 3312
 MD5sum: 3289421b708d9bcb75b0aa131cfc6864
 SHA1: 85ff027adfaaf42090b99c84b9ef27c85e393587
@@ -403,7 +403,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Installed-Size: 1212
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: debs/com.nan.datameter_1.4-3_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.datameter_1.4-3_iphoneos-arm.deb
 Size: 243720
 MD5sum: b1d92270bda948527c723f258c4c2cf6
 SHA1: c2bf138610ca69eb0d0997276fed93fc13427052
@@ -424,7 +424,7 @@ Version: 0.0.1-57
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 9.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.deleteforever_0.0.1-57_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.deleteforever_0.0.1-57_iphoneos-arm.deb
 Size: 250524
 MD5sum: 3937dc184861601edb3f98791cf3d7ce
 SHA1: 2e2db40437ee41f9558ac6234087fe6d5fcc33da
@@ -441,7 +441,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: com.flex2areo.disablealerts2, netskao.disablealerts
 Provides: com.flex2areo.disablealerts2, netskao.disablealerts (=2.4.1)
-Filename: debs/com.nan.disablealerts_2.4.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.disablealerts_2.4.1_iphoneos-arm.deb
 Size: 9916
 MD5sum: 64748e4cad7b2acbb555a2d1f6916104
 SHA1: 1b7658836e3350d5913101e764ef04831bceafe7
@@ -458,7 +458,7 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.nan.elegantsettings_1.2.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.elegantsettings_1.2.1_iphoneos-arm.deb
 Size: 34052
 MD5sum: 7452a5327fb760d36e02dd0c30cfd22e
 SHA1: 132f40e42e57fdfcfe90ac9e6584ef0a45f07183
@@ -482,7 +482,7 @@ Maintainer: zhaonan
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Provides: com.tigisoftware.filza64bit (=3.7.7-16)
-Filename: debs/com.nan.filza64bit_3.7.7-16_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.filza64bit_3.7.7-16_iphoneos-arm.deb
 Size: 7205848
 MD5sum: c5d16cd7fc5fa6a609e94de38b835225
 SHA1: c3c49c32a9fed149132fd23b957eb64ef6323d7b
@@ -501,7 +501,7 @@ Maintainer: zhaonan
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Provides: com.tigisoftware.filza64bit (=3.8.0-20)
-Filename: debs/com.nan.filza64bit_3.8.0-20_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.filza64bit_3.8.0-20_iphoneos-arm.deb
 Size: 6684224
 MD5sum: 7294b8e82dd4d41151828a42f965dcd5
 SHA1: b3f4e09e4c2977093432efa7fc5adb56c22e6788
@@ -520,7 +520,7 @@ Maintainer: zhaonan
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza64bit, com.nan.filza
 Provides: com.tigisoftware.filza64bit (= 3.8.0-24)
-Filename: debs/com.nan.filza64bit_3.8.0-24_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.filza64bit_3.8.0-24_iphoneos-arm.deb
 Size: 6703656
 MD5sum: 16e274956e44a9d95034284e22487950
 SHA1: fb4e8f85de35c964a1003a8fc60dea7ed5980a5e
@@ -537,7 +537,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts
-Filename: debs/com.nan.fonts.zh.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts.zh.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
 Size: 6416580
 MD5sum: 677e635f2289327f0325517446778d0e
 SHA1: 6697fd09094e750768f97235f9f90ca2d11cc85f
@@ -554,7 +554,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts
-Filename: debs/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts.zh.mamelon_0.1.0_iphoneos-arm.deb
 Size: 9400764
 MD5sum: b9c01600a0aab41716b3746acd082175
 SHA1: 01516611f23da93df0c7f67d4aa6b6b264b7bc75
@@ -571,7 +571,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts
-Filename: debs/com.nan.fonts.zh.xindixiawucha_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts.zh.xindixiawucha_0.1.0_iphoneos-arm.deb
 Size: 14415560
 MD5sum: 726189b46270880b2dfcf84ed44b9438
 SHA1: 54dcedf7b2bf8af5246a28c57ea52ac048f9dab2
@@ -588,7 +588,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
-Filename: debs/com.nan.fonts11.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts11.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
 Size: 2297268
 MD5sum: 940335a9e187e06166b82008fd906dc9
 SHA1: 3508326f56332db9d1b732839b5e71f35be3d127
@@ -605,7 +605,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
-Filename: debs/com.nan.fonts11.en.mamelon_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts11.en.mamelon_0.1.0_iphoneos-arm.deb
 Size: 2324016
 MD5sum: 5cb66dadd5f43812357bc95cbed31e76
 SHA1: 41a0d6bdac2548a792b61e31135b7277ddbe3d01
@@ -622,7 +622,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=11.0), firmware (<<12.0)
-Filename: debs/com.nan.fonts11.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts11.en.xindixiawucha_0.1.0_iphoneos-arm.deb
 Size: 2325444
 MD5sum: d75a47c5d6d41d939f0eb42ea11b9e40
 SHA1: d9f644b9b6acba827d1d20b83ab0a8cba6811bf8
@@ -639,7 +639,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
-Filename: debs/com.nan.fonts12.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts12.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
 Size: 2296576
 MD5sum: 0020550ba33e7c579ef86a2118e0de38
 SHA1: 1cb1661d2208983cf10bb45ff6448f9027bb49d7
@@ -656,7 +656,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=12.0), firmware (<<13.0)
-Filename: debs/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts12.en.mamelon_0.1.0_iphoneos-arm.deb
 Size: 2338596
 MD5sum: 9abe649b91f25197e2d4239d59cdbf0b
 SHA1: 58eb29966eecc2bfff2f79efe135fcf8716fd2e9
@@ -673,7 +673,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts , firmware (>=12.0), firmware (<<13.0)
-Filename: debs/com.nan.fonts12.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts12.en.xindixiawucha_0.1.0_iphoneos-arm.deb
 Size: 2325548
 MD5sum: 0bd0e3db4b577a54b5120a6e2f1e1a72
 SHA1: aedd043542372e79d6af89c604351b0cd1e09577
@@ -690,7 +690,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
-Filename: debs/com.nan.fonts13.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts13.en.haipaiqiangdiaoqingxia_0.1.0_iphoneos-arm.deb
 Size: 2123324
 MD5sum: 347f965e245617af75a838c0a9c29987
 SHA1: 579bf6147266b41158ab8b0d64716bee670b59da
@@ -707,7 +707,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
-Filename: debs/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts13.en.mamelon_0.1.0_iphoneos-arm.deb
 Size: 2179996
 MD5sum: 26c1015f71ab1cc677b40bd55558ba4c
 SHA1: 80dce2478caba87985d7aa1739d5987178f60eee
@@ -724,7 +724,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=13.0), firmware (<<14.0)
-Filename: debs/com.nan.fonts13.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts13.en.xindixiawucha_0.1.0_iphoneos-arm.deb
 Size: 2194556
 MD5sum: 246572f62ebc1d614252be74b7fa0f65
 SHA1: 0709584119873b377bb59070bbccf4e262a9bae8
@@ -741,7 +741,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=14.0), firmware (<<15.0)
-Filename: debs/com.nan.fonts14.en.mamelon_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts14.en.mamelon_0.1.0_iphoneos-arm.deb
 Size: 2910576
 MD5sum: 4af9d266fbbd764d6080299bcfa3f097
 SHA1: 505636ef6749f541854677ea69ef23b2cd40ddbf
@@ -758,7 +758,7 @@ Version: 0.1.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: com.nan.resetfonts, firmware (>=14.0), firmware (<<15.0)
-Filename: debs/com.nan.fonts14.en.xindixiawucha_0.1.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.fonts14.en.xindixiawucha_0.1.0_iphoneos-arm.deb
 Size: 2910052
 MD5sum: 79899813996d8a71540aadbbabb8bcab
 SHA1: 17e820b103f86c160256ba42336bb81ef5ee0976
@@ -776,7 +776,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 13.0), mobilesubstrate
 Conflicts: com.michael.handprint
-Filename: debs/com.nan.handprintkb_0.5.5_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.handprintkb_0.5.5_iphoneos-arm.deb
 Size: 3328
 MD5sum: 8aabd3b9da8ee08045598f3ae288c7ca
 SHA1: 68e88ff3deec6d99080e3dff4f3fb1b434f0b58a
@@ -795,7 +795,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: com.castyte.iamchinese
 Provides: com.castyte.iamchinese (=1.0.0)
-Filename: debs/com.nan.iamchinese_1.0.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.iamchinese_1.0.0_iphoneos-arm.deb
 Size: 3696
 MD5sum: 83d88c88b67bb742a3a7c97551bfa499
 SHA1: 66e1d269e77ad3d532d6660351504d1afe17c618
@@ -814,7 +814,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
 Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro-crack
-Filename: debs/com.nan.icleanerpro_7.8.2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.icleanerpro_7.8.2_iphoneos-arm.deb
 Size: 6707604
 MD5sum: f2dee0216d7be04eb8bdc96928080ae9
 SHA1: e07aa7a8fa502c7155c9db5ef6c2c80ae1162a26
@@ -835,7 +835,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro
 Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, com.nan.icleanerpro
-Filename: debs/com.nan.icleanerpro-crack_7.8.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.icleanerpro-crack_7.8.0_iphoneos-arm.deb
 Size: 5286588
 MD5sum: 0d0fae9f315da601841ea67251142c8f
 SHA1: 6b03cf1567e31a03ffa711e6f7e6da90805ccf55
@@ -854,7 +854,7 @@ Version: 2.0
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.ioshelper122_2.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.ioshelper122_2.0_iphoneos-arm.deb
 Size: 139928
 MD5sum: 89bcc3258cf2373260519a0cc59273ff
 SHA1: 03cf08189a0ff38ac0a106e0429bf634786be197
@@ -869,7 +869,7 @@ Version: 1.4-4
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: debs/com.nan.localiapstore_1.4-4_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.localiapstore_1.4-4_iphoneos-arm.deb
 Size: 42516
 MD5sum: 0d90a7ae7bf8e1d5bdc21c51467c350d
 SHA1: 930c014f9d273cf80ae020853342d070bf7525ca
@@ -888,7 +888,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.mcpatch
 Provides: kr.xsf1re.mcpatch
-Filename: debs/com.nan.mcpatch_0.0.1-2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.mcpatch_0.0.1-2_iphoneos-arm.deb
 Size: 3608
 MD5sum: b6e17211069ac3a46aa2273d64130b12
 SHA1: 9dee44689fc8ce6a5a69b29e3fd47504974767d6
@@ -905,7 +905,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: debs/com.nan.nodndbanner_0.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.nodndbanner_0.0.1_iphoneos-arm.deb
 Size: 2524
 MD5sum: f1b2a8a42e8098338c6c5cfa957cf0be
 SHA1: 2221224cfa38f7fbc6edff901cf08d0fa3e0d931
@@ -924,7 +924,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate, me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.modernxi, me.nepeta.libnepeta, me.nepeta.notifica, com.rpgfarm.notifica
 Provides: me.nepeta.notifica (=0.3.1), com.rpgfarm.notifica (=0.4.1)
-Filename: debs/com.nan.notifica_0.4.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.notifica_0.4.1_iphoneos-arm.deb
 Size: 430040
 MD5sum: 4660ff1611fdbcc29e69e98b32ed59c5
 SHA1: 91819f09c962d13a92b14c6a8e7370109ac0e10a
@@ -941,7 +941,7 @@ Version: 1.2~b7
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.pencilchargingindicator_1.2~b7_iphoneos-arm.deb
 Size: 376584
 MD5sum: 5a4378bd7fb89c6b1130de3923ec45ce
 SHA1: 7a154891260f88e8e025c5b06e549070ee132e88
@@ -961,7 +961,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12)
 Conflicts: com.johnzaro.networkspeed13
 Provides: com.johnzaro.networkspeed13 (=3.0)
-Filename: debs/com.nan.perfectnetworkspeedinfo_3.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.perfectnetworkspeedinfo_3.0_iphoneos-arm.deb
 Size: 486668
 MD5sum: d48b857e97a7aa3afb0302437879b924
 SHA1: f431a0dbd36d4a0d076471de0683ee03ab3dfdac
@@ -979,7 +979,7 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Conflicts: com.ericasadun.utilities, com.bingner.plutil, plutil
 Provides: com.bingner.plutil (=0.2.1), plutil (=0.2.1)
-Filename: debs/com.nan.plutil_0.2.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.plutil_0.2.1_iphoneos-arm.deb
 Size: 27364
 MD5sum: f8247295c8c517d67f57f331ff6d86f4
 SHA1: a85af74d008f44037dcc68611946a740820bd0a4
@@ -998,7 +998,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
 Conflicts: com.c1d3r.pulloverpro
 Provides: com.c1d3r.pulloverpro (=2.1.1)
-Filename: debs/com.nan.pulloverpro_2.1.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.pulloverpro_2.1.1_iphoneos-arm.deb
 Size: 742056
 MD5sum: d42161b65856ce69e8a9696687ae7040
 SHA1: b950628b9d0455873bd9e8f6d5ff356ecc93c80a
@@ -1020,7 +1020,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: tougbao.qqanitirecallhook
 Provides: tougbao.qqanitirecallhook (=1.2)
-Filename: debs/com.nan.qqanitirecallhook_1.2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.qqanitirecallhook_1.2_iphoneos-arm.deb
 Size: 26900
 MD5sum: bea88ffe3a52bfe55fa7b56cba10a187
 SHA1: cf1c9953065d77d0b7f43c2cbb3ab1d589a83dc6
@@ -1039,7 +1039,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate, firmware (>= 9.0)
 Conflicts: netskao.qqpurification
 Provides: netskao.qqpurification (=1.4-1)
-Filename: debs/com.nan.qqpurification_1.4-1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.qqpurification_1.4-1_iphoneos-arm.deb
 Size: 249740
 MD5sum: 9debb3f68570ced2557c93af681c0c70
 SHA1: 3d4576884b4fadc46252bec6c02ac3205916987e
@@ -1058,7 +1058,7 @@ Maintainer: zhaonan
 Depends: mobilesubstrate
 Conflicts: com.lnsspsd.qrrp
 Provides: com.lnsspsd.qrrp (=0.2.0)
-Filename: debs/com.nan.qrrp_0.2.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.qrrp_0.2.0_iphoneos-arm.deb
 Size: 4768
 MD5sum: 99b55de0eaa8393b0705022239f58f1a
 SHA1: 941fe330c2e9eafe88cf523c4e7fb32de3c9c7fd
@@ -1073,7 +1073,7 @@ Package: com.nan.respring.xr
 Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Filename: debs/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.respring.xr_0.1.1_iphoneos-arm.deb
 Size: 503628
 MD5sum: 63e0868e306e0a82c9bec9f5f1476c71
 SHA1: bc49eae5607b58b84b488534b19bdd6d1cf7f68d
@@ -1090,7 +1090,7 @@ Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 13.0)
-Filename: debs/com.nan.setwallpaper_0.1.3_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.setwallpaper_0.1.3_iphoneos-arm.deb
 Size: 115152
 MD5sum: f4e2e2c4b21d03437a37eaeda1da2e78
 SHA1: ad7c8b157e8a341cf4789511c79359b03b915b9f
@@ -1110,7 +1110,7 @@ Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
 Depends: com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Replaces: com.cpdigitaldarkroom.placeholder
-Filename: debs/com.nan.shuffle_1.0.4_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.shuffle_1.0.4_iphoneos-arm.deb
 Size: 178940
 MD5sum: 03ecdd28e94d3fba3eb9088768c27857
 SHA1: 3d4c7ad78e8f97c7d999a77e2715a8d8a7ef249b
@@ -1125,7 +1125,7 @@ Version: 0.0.1-2
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.shynotifications_0.0.1-2_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.shynotifications_0.0.1-2_iphoneos-arm.deb
 Size: 2776
 MD5sum: ed26af91167e3edcc34505902e0f99f2
 SHA1: b27d6804dd4d3bf7b33dc54a6699e3d5e843d2cc
@@ -1140,7 +1140,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.slimvolumehud_0.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.slimvolumehud_0.0.1_iphoneos-arm.deb
 Size: 2632
 MD5sum: 9e0bda352300892a12d4892c54427672
 SHA1: e5f36b532902ae198d4b2b70dfcd2b6f7f90eb12
@@ -1157,7 +1157,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy
 Provides: com.bingner.snappy (=1.3.0)
-Filename: debs/com.nan.snappy_1.3.0_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.snappy_1.3.0_iphoneos-arm.deb
 Size: 15612
 MD5sum: ceef057c4b53c815c7ac80f42982c76f
 SHA1: 6be2d4abb0e10698e1a4316120db3eb46157ff44
@@ -1176,7 +1176,7 @@ Maintainer: zhaonan
 Depends: firmware (>= 10.3)
 Conflicts: com.bingner.snappy, com.nan.snappy
 Provides: com.bingner.snappy (=1.3.0)
-Filename: debs/com.nan.snappy-modify_1.3.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.snappy-modify_1.3.1_iphoneos-arm.deb
 Size: 17188
 MD5sum: 8fd6434c217d0b6d238631e3f20f6b2d
 SHA1: 1a30f64586e026c5da63fd24911d9d0a3d974ad9
@@ -1195,7 +1195,7 @@ Maintainer: zhaonan
 Depends: firmware (>=10.3)
 Conflicts: snaputil
 Provides: snaputil (=10.15.1)
-Filename: debs/com.nan.snaputil_10.15.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.snaputil_10.15.1_iphoneos-arm.deb
 Size: 3440
 MD5sum: 2883e71574b1ecac83261829b031f3d1
 SHA1: f1f48aca10e9184cac92678df6bca89478c02eaa
@@ -1215,7 +1215,7 @@ Maintainer: ichitaso
 Depends: firmware (>= 11.0)
 Conflicts: com.ichitaso.spenabler
 Provides: com.ichitaso.spenabler
-Filename: debs/com.nan.spenabler_1.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.spenabler_1.0.1_iphoneos-arm.deb
 Size: 3836
 MD5sum: 168e073707bbc03d31e5a0dd262b53d6
 SHA1: b14f0301e0fbfcaee0e9eb6232c6cf7601989d3d
@@ -1237,7 +1237,7 @@ Depends: firmware (>= 8.0), preferenceloader (>= 2.2.2), firmware (>= 11.0) | ne
 Conflicts: net.tetherme.tetherme, net.tetherme.tetherme8
 Replaces: net.tetherme.tetherme
 Provides: net.tetherme.tetherme8
-Filename: debs/com.nan.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.tetherme8_1.2.3~arm64e-1_iphoneos-arm.deb
 Size: 80080
 MD5sum: e549a637d43a33d8b3ed0ff00d357145
 SHA1: a1da9e042f407978a6a0cd7ad74d82058759fa0b
@@ -1255,7 +1255,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: mobilesubstrate
-Filename: debs/com.nan.twig_1.0.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.twig_1.0.1_iphoneos-arm.deb
 Size: 7572
 MD5sum: 7636f4f007c7730ce2cafa26969d30fd
 SHA1: 69a112babaa1ce6ae35f8818c0ff8c7173d7a190
@@ -1269,7 +1269,7 @@ Package: com.nan.wxtheme.puzzle
 Version: 0.1.1
 Architecture: iphoneos-arm
 Maintainer: zhaonan
-Filename: debs/com.nan.wxtheme.puzzle_0.1.1_iphoneos-arm.deb
+Filename: debs/rootfull/com.nan.wxtheme.puzzle_0.1.1_iphoneos-arm.deb
 Size: 1212860
 MD5sum: 083044f271517b835379fa1b13d94f90
 SHA1: 42132f8735310aec43c326d6ebe27f0bd9f6fb6b
