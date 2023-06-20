@@ -199,22 +199,6 @@ Icon: https://Invalidunit.github.io/repo/Depictions/Default/image_tweaks.png
 Name: Bolders
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.bolders/js.json
 
-Package: com.nan.bootlogo.checkra1n
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: zhaonan
-Filename: debs/rootfull/com.nan.bootlogo.checkra1n_0.1.1_iphoneos-arm.deb
-Size: 274700
-MD5sum: 377a102f1acd9f4d3cee7ba3854d86ee
-SHA1: 9b528bedfb7008b1311e8737bd6bd5d8f7c77309
-SHA256: f5ba4288c8c0a35f044cb82c507257f2fbb7302f55a11c09acca1a24b659e5bd
-Section: Themes (Bootlogos)
-Description: 将启动 Logo 替换为 checkra1n 微标。
-Author: zhaonan
-Icon: https://invalidunit.github.io/repo2/Depictions/com.nan.bootlogo.checkra1n/image.png
-Name: checkra1n-Bootlogo
-Sileodepiction: https://invalidunit.github.io/repo2/Depictions/com.nan.bootlogo.checkra1n/js.json
-
 Package: com.nan.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm
