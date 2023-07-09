@@ -1282,3 +1282,25 @@ Icon: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzl
 Name: Puzzle
 Sileodepiction: https://Invalidunit.github.io/repo/Depictions/com.nan.sutuplus/theme/puzzle/js.json
 
+Package: ru.domo.cocoatop64
+Version: 2.2.3-nan
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 10.0)
+Conflicts: ru.domo.cocoatop
+Filename: debs/rootless/ru.domo.cocoatop64_2.2.3-nan_iphoneos-arm64.deb
+Size: 214908
+MD5sum: 738670807f2d310ece0879acc4096940
+SHA1: 345f7c29300fcabed77bfb1df5de8fc0fb784ac9
+SHA256: b0d0773a971903d1b011468ced8f91ee6521a0f19b969a6256ad1f18c960218c
+Section: Utilities
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cocoatop64Dp
+Description: Process Viewer for iOS 10-13
+Tag: purpose::uikit
+Author: Domo <domo@rambler.ru>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cocoatop64Dp
+Dev: domo
+Icon: file:///var/jb/Applications/CocoaTop.app/Icon.png
+Name: CocoaTop64
+Sponsor: thebigboss.org <http://thebigboss.org>
+
