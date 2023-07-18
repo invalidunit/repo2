@@ -1,3 +1,22 @@
+Package: com.miguelaka95.bettercc
+Version: 0.0.5-nan
+Architecture: iphoneos-arm64
+Maintainer: Miguelaka95 <miguelaka95@gmail.com>
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: debs/rootless/com.miguelaka95.bettercc_0.0.5-nan_iphoneos-arm64.deb
+Size: 149780
+MD5sum: 814d9d216360af8becd99d185cde702d
+SHA1: 02203160b8be75d7b2c6724f01b1a369230468e2
+SHA256: 9005f93f270cada461e00dbbaa598eb45359d078bdc980fcb929ba7bd186deb9
+Section: Tweaks
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC
+
 Package: com.nan.3dbadgeclear
 Version: 1.6.8
 Architecture: iphoneos-arm
