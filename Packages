@@ -1,13 +1,13 @@
 Package: com.miguelaka95.bettercc
-Version: 0.0.5-nan
+Version: 0.0.5-wu
 Architecture: iphoneos-arm64
 Maintainer: Miguelaka95 <miguelaka95@gmail.com>
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: debs/rootless/com.miguelaka95.bettercc_0.0.5-nan_iphoneos-arm64.deb
-Size: 149780
-MD5sum: 814d9d216360af8becd99d185cde702d
-SHA1: 02203160b8be75d7b2c6724f01b1a369230468e2
-SHA256: 9005f93f270cada461e00dbbaa598eb45359d078bdc980fcb929ba7bd186deb9
+Filename: debs/rootless/com.miguelaka95.bettercc_0.0.5-wu_iphoneos-arm64.deb
+Size: 149924
+MD5sum: 07565670d0fa9d9f2aec8e1c821c455e
+SHA1: 49b03e8dd4f1f34cfd2a1dc4c50a183ad0ffa65e
+SHA256: 7e0ac3fccafcf81167b7098bff46e0187966ea44e9ec74ab34debda61096f026
 Section: Tweaks
 Description: Customize your Control Center!
  Invisible Modules.
