@@ -1136,12 +1136,12 @@ Architecture: iphoneos-arm
 Maintainer: zhaonan
 Depends: firmware (>= 13.0)
 Filename: debs/rootfull/com.nan.setwallpaper_0.1.4_iphoneos-arm.deb
-Size: 112908
-MD5sum: cc63141eea9ead9643060d86178e633b
-SHA1: 01b0e30828cd91ce4c3ce11503822e231e6e987b
-SHA256: 1a9af7f3ea3d1941fa88d420188fa6cbb2eff88ed62d8f3053468529672013ad
+Size: 112916
+MD5sum: b20e1004fc76d5755293c5781e551201
+SHA1: 55b3d2309ff22e8102574b68cf83dfb30872c9a2
+SHA256: 0cc0d0b381eac820685f88bd6d5f56f73387afb6c51855ff0a97318d31dc5cc6
 Section: System
-Description: 为光暗模式分别自定义壁纸
+Description: 为浅色外观和深色外观分别自定义壁纸
 Author: MichaelMKenny
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/image.png
 Name: Set Wallpaper
@@ -1153,12 +1153,12 @@ Architecture: iphoneos-arm64
 Maintainer: zhaonan
 Depends: firmware (>= 13.0)
 Filename: debs/rootless/com.nan.setwallpaper_0.1.4_iphoneos-arm64.deb
-Size: 113068
-MD5sum: d5002ebc90945c2dbec1bc24d6c7c9c1
-SHA1: 76c71a90a5be531e7db3469744d391197ce241ee
-SHA256: df3f8a52d1fdec16d2f20750be3d809f7b220da30d79942f3496eab9df0b7523
+Size: 113072
+MD5sum: bcfe921cdb026ac4b92d204c6371fa4e
+SHA1: daac095b0acd95d49302e3d00c869f188093e210
+SHA256: d7a4f3e087badddbaae15f31d456ed23e5af93989821217ac3cdf937f07d1bf5
 Section: System
-Description: 为光暗模式分别自定义壁纸
+Description: 为浅色外观和深色外观分别自定义壁纸
 Author: MichaelMKenny
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/image.png
 Name: Set Wallpaper
