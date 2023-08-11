@@ -1,22 +1,3 @@
-Package: com.miguelaka95.bettercc
-Version: 0.0.5-wu
-Architecture: iphoneos-arm64
-Maintainer: Miguelaka95 <miguelaka95@gmail.com>
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: debs/rootless/com.miguelaka95.bettercc_0.0.5-wu_iphoneos-arm64.deb
-Size: 149924
-MD5sum: 07565670d0fa9d9f2aec8e1c821c455e
-SHA1: 49b03e8dd4f1f34cfd2a1dc4c50a183ad0ffa65e
-SHA256: 7e0ac3fccafcf81167b7098bff46e0187966ea44e9ec74ab34debda61096f026
-Section: Tweaks
-Description: Customize your Control Center!
- Invisible Modules.
- Rearrange Connectivity Toggles.
- Change Modules Size.
- Weather Widget.
-Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: BetterCC
-
 Package: com.nan.3dbadgeclear
 Version: 1.6.8
 Architecture: iphoneos-arm
@@ -145,6 +126,29 @@ Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.backgrounderaction13/image.png
 Name: BackgrounderAction2 for CCSupport
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.backgrounderaction13/js.json
+
+Package: com.nan.bettercc
+Version: 0.0.5-wu
+Architecture: iphoneos-arm64
+Maintainer: zhaonan
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport, preferenceloader
+Conflicts: com.miguelaka95.bettercc
+Provides: com.miguelaka95.bettercc
+Filename: debs/rootless/com.nan.bettercc_0.0.5-wu_iphoneos-arm64.deb
+Size: 150040
+MD5sum: 90ecf9bd921a0b4a36e3dbfb56fc65aa
+SHA1: 79d2f7ab7b763ca9cb59b5680d4c25e483bf8489
+SHA256: 709b0ca08fcf4453a93be6ea91e99bc8ce77baf0c2f11d355e2e333ca6b87bc5
+Section: Tweaks
+Description: Customize your Control Center!
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.bettercc/image.png
+Name: BetterCC
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.bettercc/js.json
 
 Package: com.nan.betterccxi
 Version: 1.6.0
