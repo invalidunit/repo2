@@ -323,18 +323,18 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.coolcc/image.png
 Name: CoolCC
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.coolcc/js.json
 
-Package: com.nan.coolcc
+Package: com.nan.coolcc-reborn
 Version: 2.0-1
 Architecture: iphoneos-arm64
 Maintainer: alias20
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: alias20.coolcc
 Provides: alias20.coolcc
-Filename: debs/rootless/com.nan.coolcc_2.0-1_iphoneos-arm64.deb
-Size: 24512
-MD5sum: 14d63f7e2bf4a6049eb54899d82bd256
-SHA1: 827092274720b0559fad75a1969ba4fbedc6f867
-SHA256: a2715873a72904c73bc8a946cb5752686198886f4b4a03cc12e66b6c22fc093a
+Filename: debs/rootless/com.nan.coolcc-reborn_2.0-1_iphoneos-arm64.deb
+Size: 26368
+MD5sum: d89865ecad71763d21933586eb5fc6ef
+SHA1: 49146a6f49b8cb1e5ee02cf5ce29720c4cf9e7d9
+SHA256: ba219cf23be0377fdf4ccb879e3c292021a449d4e3e35b35f35c22f5ac4f68f1
 Section: Tweaks
 Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
 Author: alias20
