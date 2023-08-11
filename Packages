@@ -327,14 +327,15 @@ Package: com.nan.coolcc-reborn
 Version: 2.0-1
 Architecture: iphoneos-arm64
 Maintainer: alias20
+Pre-Depends: org.thebigboss.libcolorpicker | ws.hbang.alderis
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Conflicts: alias20.coolcc
 Provides: alias20.coolcc
 Filename: debs/rootless/com.nan.coolcc-reborn_2.0-1_iphoneos-arm64.deb
-Size: 26368
-MD5sum: d89865ecad71763d21933586eb5fc6ef
-SHA1: 49146a6f49b8cb1e5ee02cf5ce29720c4cf9e7d9
-SHA256: ba219cf23be0377fdf4ccb879e3c292021a449d4e3e35b35f35c22f5ac4f68f1
+Size: 26416
+MD5sum: bf8aee5b5fe729ba26b9c63d2d8c28bc
+SHA1: ce523cd1c34f29873215d57ca237b4839e141a3c
+SHA256: 6cd774684122cc19dc7b55d8f83bdfb2f761632ca19991a745bb17741f7978b7
 Section: Tweaks
 Description: This tweak makes ControlCenter cool! Compatible with iOS 15/rootless.
 Author: alias20
