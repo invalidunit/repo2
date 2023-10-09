@@ -1164,6 +1164,23 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/image.pn
 Name: Set Wallpaper
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/js.json
 
+Package: com.nan.setwallpaper
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Maintainer: zhaonan
+Depends: firmware (>= 13.0)
+Filename: debs/roothide/com.nan.setwallpaper_0.1.4_iphoneos-arm64e.deb
+Size: 112956
+MD5sum: fd110011f59827ea8376a0dd0a3fd8e0
+SHA1: d3f6b24cec73e8e31ee46bb42ca35b1fc632e075
+SHA256: f8420a9e0c3ee226227b2e63ea1e562fd3ce61d63838484816f602fff8e36841
+Section: System
+Description: 为浅色外观和深色外观分别自定义壁纸
+Author: MichaelMKenny
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/image.png
+Name: Set Wallpaper
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.setwallpaper/js.json
+
 Package: com.nan.shuffle
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -1326,6 +1343,25 @@ Section: Tweaks
 Description: 为 iOS10+ 的 iPhone 或者 iPod Touch 的锁屏添加一些天气
 Author: iOS Creatix
 Name: Twig
+
+Package: com.nan.uitrasound
+Version: 1.2.13
+Architecture: iphoneos-arm64
+Maintainer: Ayden Panhuyzen
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13, applebetas.ios.tweak.willow
+Provides: applebetas.ios.tweak.willow
+Filename: debs/rootless/com.nan.uitrasound_1.2.13_iphoneos-arm64.deb
+Size: 150816
+MD5sum: c39b84324ca5b5305222d2075b6e9ffb
+SHA1: f7b8b6564454382dd5c63bf482ae3e497742666f
+SHA256: 125597ebc5776deb9fa995b663123dcc0413988c59f3ee09e3ddf07d28b80a9a
+Section: Tweaks
+Description: 漂亮的音量 HUD 外观
+Author: Ayden Panhuyzen
+Icon: https://invalidunit.github.io/sileodepiction/com.nan.uitrasound/image.png
+Name: Ultrasound
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.uitrasound/js_rootless.json
 
 Package: com.nan.wxtheme.puzzle
 Version: 0.1.1
