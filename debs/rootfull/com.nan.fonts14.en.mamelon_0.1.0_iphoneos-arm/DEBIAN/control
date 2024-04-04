@@ -1,0 +1,11 @@
+Package: com.nan.fonts14.en.mamelon
+Name: マメロン-英文-14
+Version: 0.1.0
+Section: Fonts (iOS14)
+Architecture: iphoneos-arm
+Author: 字由心雨
+Maintainer: zhaonan
+Depends: com.nan.resetfonts, firmware (>=14.0), firmware (<<15.0)
+Description: 感谢字由心语分享的 マメロン
+Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.fonts/mamelon/js_en.json
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_fonts.png
