@@ -1,9 +1,0 @@
-#!/bin/sh
-
-
-_path="${0#*/}"
-_path="/${_path%.*}"
-
-
-echo '/.' >"${_path}.list"
-rm -f "${0}"
