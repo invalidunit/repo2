@@ -240,6 +240,40 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_tweaks.png
 Name: Bounce It
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.bounceit/js.json
 
+Package: com.nan.ccpower
+Version: 1.9-3
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Conflicts: netskao.ccpower
+Provides: netskao.ccpower (=1.9-3)
+Filename: ./debs/iphoneos-arm/com.nan.ccpower_1.9-3_iphoneos-arm.deb
+Size: 1018936
+MD5sum: e511019fc8c73f1d76827d23b7839652
+SHA1: 39c60d242d65c1d8e7fcbf732254f9b8b51756b3
+SHA256: dbb0cde50467659187cb5364644a9c14b6c12b2c74a911e4ee4f1e2e985b5188
+Section: Netskao-Tweaks
+Description: Control Center Quick Power Tool, Supports iOS11-iOS15
+Author: Netskao
+Name: CCPower
+
+Package: com.nan.ccpower
+Version: 1.9-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
+Conflicts: netskao.ccpower-rootless
+Provides: netskao.ccpower-rootless (=1.9-4)
+Filename: ./debs/iphoneos-arm64/com.nan.ccpower_1.9-4_iphoneos-arm64.deb
+Size: 957500
+MD5sum: 8c0f82feb95e6f3c54b5108e70b63b3c
+SHA1: 7bfed3ef37d32f8785b8ef1a7cae26ba10ded787
+SHA256: c1451fe339cc50ff72a32b1384385391ccc584c96e57d8eec594b2ad82229a76
+Section: Tweaks
+Description: Control Center Quick Power Tool, Supports iOS11-iOS15
+Author: Netskao
+Name: CCPower
+
 Package: com.nan.cocoatop64
 Version: 2.2.3-nan
 Architecture: iphoneos-arm64
@@ -893,6 +927,40 @@ Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.icleanerpro/image.png
 Name: iCleaner Pro Crack
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.icleanerpro/js_crack.json
+
+Package: com.nan.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0)
+Conflicts: netskao.injectipa-rootless
+Provides: netskao.injectipa-rootless (=1.4-4)
+Filename: ./debs/iphoneos-arm64/com.nan.injectipa_1.4-4_iphoneos-arm64.deb
+Size: 963136
+MD5sum: 02ddfcba09e8177b198e11a024bac306
+SHA1: 075dd4151eeaa918af89e97a4de4865de21e541a
+SHA256: 2b407e0b93862cf7267cbee5f74b5e84f8214d15887f8a2c4722e41cf8a206b0
+Section: Terminal_Support
+Description: injectipa 是一款命令行一键注入dylib 到 ipa 工具。用法: injectipa ipa 路径 dylib 路径 (如有多个 dylib 依次填写在末尾即可), 其它参数执行 injectipa 查看即可, 注入完成后的 IPA 需要签名使用
+Author: Netskao
+Name: injectipa
+
+Package: com.nan.injectipa
+Version: 1.4-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 11.0)
+Conflicts: netskao.injectipa
+Provides: netskao.injectipa (=1.4-4)
+Filename: ./debs/iphoneos-arm/com.nan.injectipa_1.4-4_iphoneos-arm.deb
+Size: 945964
+MD5sum: dadf6f7c4973aa6dc723c822be6a8d2f
+SHA1: c7a43cdb85b6e0f2dcdad87870fbcdcd8b5b64b8
+SHA256: bfc3fad3b21a44e6ca76ea9217644cac9664812fa9d94a667c54f59ae8e86635
+Section: Terminal_Support
+Description: injectipa 是一款命令行一键注入dylib 到 ipa 工具。用法: injectipa ipa 路径 dylib 路径 (如有多个 dylib 依次填写在末尾即可), 其它参数执行 injectipa 查看即可, 注入完成后的 IPA 需要签名使用
+Author: Netskao
+Name: injectipa
 
 Package: com.nan.ioshelper122
 Version: 2.0
