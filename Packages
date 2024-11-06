@@ -1126,6 +1126,40 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.pulloverpro/image.png
 Name: PullOver Pro
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.pulloverpro/js.json
 
+Package: com.nan.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Provides: com.c1d3r.pulloverpro, netskao.pulloverpro (=2.1.4-1)
+Filename: ./debs/iphoneos-arm64/com.nan.pulloverpro_2.1.4-1_iphoneos-arm64.deb
+Size: 903580
+MD5sum: ba2982f92f08abf921f2a9dd8b9c9194
+SHA1: 4febc1dd34fee7a40ab3fd2cad012f34431f23b8
+SHA256: 0d8b46804843fda6bd31c3ea557d46dc9d955e51bd52dd4cd69e689a390dfb43
+Section: Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
+
+Package: com.nan.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro, netskao.pulloverpro
+Provides: com.c1d3r.pulloverpro, netskao.pulloverpro (=2.1.4-1)
+Filename: ./debs/iphoneos-arm/com.nan.pulloverpro_2.1.4-1_iphoneos-arm.deb
+Size: 337540
+MD5sum: 8bc538435cd3271e8177079ec9816efb
+SHA1: adeb452975d3c9624d4496380bdd43d863a16974
+SHA256: 298ae6a163b0fc733b0832a51b70879c73e080550d226f118fd8d2e44da879ef
+Section: Tweaks
+Description: A better way to multitask! Fix support for iOS14-iOS15
+Author: c1d3r
+Name: PullOver Pro
+
 Package: com.nan.qqanitirecallhook
 Version: 1.2
 Architecture: iphoneos-arm
@@ -1374,6 +1408,40 @@ Dev: ichitaso
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 Name: SupervisedEnabler
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.spenabler/js.json
+
+Package: com.nan.storeswitchaccounts
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: netskao.storeswitchaccounts-rootless
+Provides: netskao.storeswitchaccounts-rootless (=1.1-2)
+Filename: ./debs/iphoneos-arm64/com.nan.storeswitchaccounts_1.1-2_iphoneos-arm64.deb
+Size: 51596
+MD5sum: e4b0546f4d59bab52ed579f3b5c4cf9e
+SHA1: a4aa5445a173945880598c1b08cc1ae6ff068b63
+SHA256: dfe93c86b630568c18e60343eeec66fd6852c21d0d00f11e47736808d1b43308
+Section: Tweaks
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Name: StoreSwitchAccounts-Rootless
+
+Package: com.nan.storeswitchaccounts
+Version: 1.1-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: firmware (>= 14.0), mobilesubstrate
+Conflicts: netskao.storeswitchaccounts
+Provides: netskao.storeswitchaccounts (=1.1-2)
+Filename: ./debs/iphoneos-arm/com.nan.storeswitchaccounts_1.1-2_iphoneos-arm.deb
+Size: 41952
+MD5sum: 7e7c43814a6bbced305a3b2c40c75de3
+SHA1: 70b0a9dc624fa5a17af6602d1a272d1e74103c5e
+SHA256: f3c74880c9f183d1500140f9168f88de5bc627b53474d528a8ea87426bbd0ee8
+Section: Tweaks
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Name: StoreSwitchAccounts
 
 Package: com.nan.tetherme8
 Version: 1.2.3~arm64e-1
