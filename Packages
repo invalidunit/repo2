@@ -1232,6 +1232,23 @@ Icon: https://invalidunit.github.io/sileodepiction/com.nan.respring.xr/image.png
 Name: iPhone XR 注销图标
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.respring/xr/js.json
 
+Package: com.nan.sakal
+Version: 2.2.1.1
+Architecture: iphoneos-arm64
+Maintainer: P2KDev <p2kdev@gmail.com>
+Depends: firmware (>= 13.0),mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Conflicts: com.p2kdev.sakal
+Provides: com.p2kdev.sakal
+Filename: ./debs/iphoneos-arm64/com.nan.sakal_2.2.1.1_iphoneos-arm64.deb
+Size: 79704
+MD5sum: 097f1cea01226283748eb0247992bb99
+SHA1: 0b147b9e12085ba874361c3746a5d5439e286e1d
+SHA256: 174f3cf1f18366fe8ec1931c0b8219e0edbb46455ccc5e84d93400a3d228e558
+Section: Tweaks
+Description: Useful at a glance information on your lockscreen!
+Author: P2KDev <p2kdev@gmail.com>
+Name: Sakal
+
 Package: com.nan.setwallpaper
 Version: 0.1.4
 Architecture: iphoneos-arm64
