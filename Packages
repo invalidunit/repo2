@@ -1543,6 +1543,24 @@ Author: Ayden Panhuyzen
 Sileodepiction: https://invalidunit.github.io/sileodepiction/com.nan.uitrasound/js_rootless.json
 Icon: https://invalidunit.github.io/sileodepiction/com.nan.uitrasound/image.png
 
+Package: com.nan.ventana
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: CoolStar
+Provides: org.coolstar.metrolockscreen (=0.0.2), org.coolstar.ventana-modern (=1.7.0)
+Depends: mobilesubstrate, firmware (>= 7.0), firmware (<< 15.0)
+Conflicts: org.coolstar.metrolockscreen, org.coolstar.ventana-modern
+Filename: ./debs/iphoneos-arm/com.nan.ventana_0.0.2_iphoneos-arm.deb
+Size: 245836
+MD5sum: b11a275dc272f061c8543d43789438a3
+SHA1: c1e8afe19b9139fe545455fdadb5522063bd728a
+SHA256: ef5364b669d7a8acda9cfa75e4f79214c0eee4a3a37729784c94f454431b3c5e
+SHA512: 4204ac937ee19fbb7dff96539c35f7bb192d4cb89277377f81cb7bfc58b1b20fef21ace303c48aa9e855f0f2ff61ceb9fb1c419f837298bb643f506c8930a93d
+Description: 受 Windows 10 启发的现代锁屏
+Name: Ventana
+Author: CoolStar
+
 Package: com.nan.wxtheme.puzzle
 Architecture: iphoneos-arm
 Version: 0.1.1
